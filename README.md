@@ -1,5 +1,6 @@
 # AMD landing pages
 #### Video Demo:  https://youtu.be/PyrnOt7zi_I
+#### Other version https://drive.google.com/drive/folders/1XuRUpoIdnOpLmZUtwymI0eZ3dOuMyVm0?usp=sharing
 # OVERVIEW
 
 AMD is a landing page made for a company that takes care of the social networks of several clients, one of the company's clients is called EVA which is a social project that helps women with breast cancer. To repay the help he gives to EVA I made the page, as it will help in the dissemination of the two companies
